@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/tomluchesi"><img src="https://api.daily.dev/devcards/v2/t1XMLE00OT3SVKwRUrdwu.png?r=fgd&type=default" width="356" alt="Tomás Luchesi's Dev Card"/></a>
+<a href="https://app.daily.dev/tomluchesi"><img src="https://api.daily.dev/devcards/v2/t1XMLE00OT3SVKwRUrdwu.png?type=wide&r=v0d" width="652" alt="Tomás Luchesi's Dev Card"/></a>
 <!--
 - 👋 Hi, I’m @Tom-L-M
 - 👀 I’m interested in Node.js, Software Development, Reverse Engineering, and Programming.
