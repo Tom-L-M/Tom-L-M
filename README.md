@@ -1,5 +1,8 @@
+<a href="https://app.daily.dev/tomluchesi"><img src="https://api.daily.dev/devcards/v2/t1XMLE00OT3SVKwRUrdwu.png?r=fgd&type=default" width="356" alt="Tomás Luchesi's Dev Card"/></a>
+<!--
 - 👋 Hi, I’m @Tom-L-M
 - 👀 I’m interested in Node.js, Software Development, Reverse Engineering, and Programming.
+ -->
 
 <!--   <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
