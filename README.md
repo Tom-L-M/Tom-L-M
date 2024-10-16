@@ -2,6 +2,8 @@
 <a href="https://app.daily.dev/tomluchesi"><img src="https://api.daily.dev/devcards/v2/t1XMLE00OT3SVKwRUrdwu.png?type=wide&r=7a0" width="752" alt="Tomás Luchesi's Dev Card"/></a>
 </div>
 
+<br/>
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
