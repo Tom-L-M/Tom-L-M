@@ -1,6 +1,4 @@
-<div align="center" > 
-<a href="https://app.daily.dev/tomluchesi"><img src="https://api.daily.dev/devcards/v2/t1XMLE00OT3SVKwRUrdwu.png?type=wide&r=7a0" width="752" alt="Tomás Luchesi's Dev Card"/></a>
-</div>
+![Header](./assets/github-header-image.png)
 
 <br/>
 
@@ -39,4 +37,11 @@
 <br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tom-L-M&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+
+<br/>
+
+<br/>
+
+<a href="https://app.daily.dev/tomluchesi"><img src="https://api.daily.dev/devcards/v2/t1XMLE00OT3SVKwRUrdwu.png?type=default&r=mgq" width="356" alt="Tomás Luchesi's Dev Card"/></a>
+
 </div>
